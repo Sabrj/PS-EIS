@@ -17,3 +17,6 @@ Has been tested:
 
 ![Bildschirmfoto 2022-06-19 um 18 19 20](https://user-images.githubusercontent.com/83362107/174490622-a7b9aa60-3b7b-4057-bce6-95d67370c6a3.png)
 
+The {new/flutter_eisa} directory represents the current state.
+The {ps_eis_app} directory represents the old version which was also used for testing purposes.
+ 
