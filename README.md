@@ -14,3 +14,6 @@ Has been tested:
 - Retrieval of an API CALLS (DONE)
 - The app runs on both Android and IOS operating systems (DONE)
 
+
+![Bildschirmfoto 2022-06-19 um 18 19 20](https://user-images.githubusercontent.com/83362107/174490622-a7b9aa60-3b7b-4057-bce6-95d67370c6a3.png)
+
