@@ -12,7 +12,7 @@ Has been tested:
 - Storage of the scanned QR code in the database (WORKS)
 - Retrieval of the database (WORKS)
 - Retrieval of an API (WORKS)
-- The app runs on both Android and IOS operating systems (WORKS)
+- The app runs on both Android (tested on emulator) and IOS (tested on Device) operating systems (WORKS)
 - Scanned Codes can be Shared via Whatsapp (WORKS, flutter:package flutter_share)
 
 
